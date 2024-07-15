@@ -33,6 +33,3 @@ This project fine-tunes a TinyLlama model to provide color hex codes based on de
     ```bash
     python models/run_inference_openvino.py
     ```
-
-## License
-This project is licensed under the MIT License.
