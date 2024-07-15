@@ -1,4 +1,4 @@
-# TinyLlama Colorist by GENZY
+# TinyLlama HEX-CODE_GENERATOR by GENZY
 
 This project fine-tunes a TinyLlama model to provide color hex codes based on descriptions and integrates the model with Intel® OpenVINO™ for efficient inference.
 
